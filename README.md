@@ -108,3 +108,5 @@ C: 26.1
 G: 13.0
 T: 30.4
 Melting temperature (long sequence): 51.7°C`
+
+![](https://github.com/Kurt-MD/test-repo/blob/main/files/Screenshot%202025-03-27%20091104.png)
